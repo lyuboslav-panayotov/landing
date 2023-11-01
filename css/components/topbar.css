@@ -1,0 +1,29 @@
+.topbar {
+  background-size: cover;
+  background-position: center;
+  height: 30px;
+  background-color: #0F1443;
+  color: #EC6338;
+  left: 0;
+  top: 0;
+  right: 0;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.topbar ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.topbar li {
+  margin-bottom: 10px;
+}
+
+.topbar a {
+  text-decoration: none;
+  color: #EC6338;
+  font-weight: bold;
+}

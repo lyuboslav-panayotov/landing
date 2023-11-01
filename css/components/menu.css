@@ -1,0 +1,20 @@
+.menu {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+  margin: 0 50px;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #EC6338;
+}
+
+.menu a:hover {
+  text-decoration: none;
+  color: white;
+}
